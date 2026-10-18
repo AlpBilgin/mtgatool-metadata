@@ -116,7 +116,7 @@ jobs:
             echo "SUPABASE_SECRET_KEY not set; skipping Supabase mirror."
             exit 0
           fi
-          base="https://decenyvqkbvydrrolwpk.supabase.co/storage/v1/object/metadata"
+          base="https://xizxbfvowvwvndbfbkdy.supabase.co/rest/v1/object/metadata"
           upload() { # <file> <object-name> <content-type>
             # Send the key as BOTH apikey and Authorization: the Storage API
             # (Kong) expects `apikey`, and a secret key isn't a JWT, so passing
