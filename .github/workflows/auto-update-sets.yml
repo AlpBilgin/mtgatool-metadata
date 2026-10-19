@@ -86,8 +86,8 @@ jobs:
       - name: Commit, bump version and tag
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git config user.name "mtgatool-bot"
-          git config user.email "mtgatool@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           added=$(git diff --name-only -- sets | sed -E 's|sets/(.*)\.json|\1|' | tr '[:lower:]' '[:upper:]' | paste -sd, -)
           git add sets formats.json
