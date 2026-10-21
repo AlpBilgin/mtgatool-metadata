@@ -528,8 +528,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -741,6 +745,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -1217,8 +1225,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -1430,13 +1442,19 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
         543133, 351741, 436934, 703039, 24405, 21415, 413629, 12194, 760671,
         427904, 44237, 352244, 76334, 756077, 280078, 428590, 8628, 24870, 1679,
         414260, 701908, 19674, 5159, 437527, 5091, 31558, 174019, 683716, 26717,
-        336891, 46453
+        336891, 46453, 33786, 437981, 1070327, 545882, 760752, 2183, 20790,
+        487146, 437977, 24267, 760608, 20972, 38739, 37885, 437985, 437983,
+        437988, 21653, 4240
       ],
       "suspendedTitleIds": [],
       "allowedTitleIds": [],
@@ -1840,8 +1858,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -2053,6 +2075,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -2318,8 +2344,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -2531,6 +2561,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -2797,8 +2831,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -3010,6 +3048,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -3281,8 +3323,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -3494,6 +3540,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -3765,8 +3815,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -3978,6 +4032,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -4244,8 +4302,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -4457,6 +4519,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -5490,8 +5556,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -5703,6 +5773,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -6065,8 +6139,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -6278,6 +6356,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -6966,8 +7048,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -7179,6 +7265,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -7446,8 +7536,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -7659,6 +7753,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -7928,8 +8026,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -8141,6 +8243,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -8422,8 +8528,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -8635,6 +8745,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -8909,8 +9023,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -9122,6 +9240,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [428590],
@@ -9393,8 +9515,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -9606,6 +9732,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -9880,8 +10010,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -10093,6 +10227,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -10376,8 +10514,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -10589,6 +10731,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -10872,8 +11018,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -11085,6 +11235,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -11364,8 +11518,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -11577,6 +11735,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -11857,8 +12019,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -12070,6 +12236,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -12352,8 +12522,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -12565,6 +12739,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -12847,8 +13025,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -13060,6 +13242,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -13341,8 +13527,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -13554,6 +13744,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -13834,8 +14028,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -14047,6 +14245,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -14334,8 +14536,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -14547,6 +14753,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -14827,8 +15037,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -15040,6 +15254,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -15327,8 +15545,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -15540,6 +15762,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -15831,8 +16057,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -16044,6 +16274,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -16336,8 +16570,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -16549,6 +16787,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -16823,8 +17065,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -17036,6 +17282,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -17360,8 +17610,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -17573,6 +17827,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -17854,8 +18112,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -18067,6 +18329,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -18351,8 +18617,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -18564,6 +18834,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -18839,8 +19113,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -19052,6 +19330,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -19334,8 +19616,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -19547,6 +19833,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -19869,8 +20159,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -20082,6 +20376,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -20375,8 +20673,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -20588,6 +20890,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -20885,8 +21191,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -21098,6 +21408,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -21373,8 +21687,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -21586,6 +21904,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [21415, 12194, 477509],
@@ -21851,8 +22173,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -22064,6 +22390,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [279584, 760553, 32535, 23339, 32333, 760655, 760279],
@@ -22329,8 +22659,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -22542,6 +22876,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -22814,8 +23152,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -23027,6 +23369,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -23298,8 +23644,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -23511,6 +23861,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -23784,8 +24138,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -23997,6 +24355,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -24268,8 +24630,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -24481,6 +24847,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -24750,8 +25120,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -24963,6 +25337,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -26134,8 +26512,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -26347,6 +26729,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -26624,8 +27010,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -26837,6 +27227,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -27155,8 +27549,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -27368,6 +27766,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -27657,8 +28059,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -27870,6 +28276,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [1679],
@@ -29272,8 +29682,12 @@
         "HOC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -29482,6 +29896,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -31157,8 +31575,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -31370,6 +31792,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
@@ -31708,8 +32134,12 @@
         "HOC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -31918,6 +32348,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [],
@@ -32629,8 +33063,12 @@
         "LTC",
         "BRAWL-LTC",
         "FRC",
+        "VOC",
+        "SLC",
+        "DSC",
         "FRA",
-        "Y26_FRA"
+        "Y26_FRA",
+        "P02"
       ],
       "filterSets": [
         "2XM",
@@ -32842,6 +33280,10 @@
         "LTC",
         "FRA",
         "FRC",
+        "VOC",
+        "SLC",
+        "P02",
+        "DSC",
         "Y26_FRA"
       ],
       "bannedTitleIds": [
